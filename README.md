@@ -1,2 +1,2 @@
-# hello
+# Hello
 Just testing git
