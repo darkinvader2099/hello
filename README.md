@@ -1,2 +1,3 @@
-# hello
-Just testing git
+# Hello
+
+New era is coming!
